@@ -1,0 +1,3 @@
+{auto_send: false, csrf_token: IjE4NmRlZDE1NDQ0MDQ5ODMzYTA4NTM1YTBkMmRmNmYxNmFmNjViZjgi.DgzMLw.ESV9Rn6udfjFnNgJWyE65er50Zs,
+  mail_host: 123.163.com, mail_port: 25, mail_pwd: '123', mail_subject: test_, mail_to: 123@qq.com,
+  mail_user: 123@163.com, report_name: test_report, submit_button: true, taffy_dir: \home\Destroyers\Taffy_Web\test_case'}
